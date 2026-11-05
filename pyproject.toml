@@ -1,0 +1,6 @@
+[project]
+name = "temporal-order-demo"
+version = "0.1.0"
+description = "Small Temporal order workflow demo: happy path, shipping timeout, out-of-stock rollback"
+requires-python = ">=3.10"
+dependencies = ["temporalio>=1.35.0"]
